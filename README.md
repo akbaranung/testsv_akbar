@@ -6,7 +6,7 @@
 5. Jika sudah selesai jalankan nodemon index
 6. Biarkan server berjalan jangan ditutup
 
-#Running Frontend
+# Running Frontend
 1. Buka terminal baru
 2. Masuk ke direktori Frontend
 3. Jalankan perintah "npm install"
